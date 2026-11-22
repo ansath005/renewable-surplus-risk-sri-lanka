@@ -1,0 +1,28 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+
+# ---------- R (if any R scripts are added) ----------
+.Rhistory
+.RData
+.Rproj.user/
+
+# ---------- Excel / Office temporary files ----------
+~$*
+
+# ---------- Power BI ----------
+# Local cache and settings of Power BI Project (.pbip) folders
+.pbi/localSettings.json
+.pbi/cache.abf
+*.pbix.bak
+
+# ---------- Operating system ----------
+.DS_Store
+Thumbs.db
+desktop.ini
