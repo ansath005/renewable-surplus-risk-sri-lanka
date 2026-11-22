@@ -1,0 +1,11 @@
+item,value
+Training period (label calibration),1 Aug 2022 to 3 May 2025
+Train-calibrated SRI 90th percentile,1.460
+Evaluation period (forecast dates),2025-05-07 to 2026-07-08
+Out-of-sample days,428
+Potential surplus-risk days in evaluation,30
+Prevalence (no-skill PR-AUC),0.070
+Validation,"Expanding-window walk-forward, refit every 30 days"
+Classifier cut-off,0.5 probability (not tuned)
+XGBoost minus Persistence PR-AUC,0.19 (95% interval 0.04 to 0.33)
+Bootstrap,"Moving-block, 14-day blocks, 2000 resamples"

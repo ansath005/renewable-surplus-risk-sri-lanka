@@ -1,0 +1,49 @@
+model,feature,feature_group,importance,rank
+Random Forest,SRI_lag2,Lag,0.1227,1
+Random Forest,RDR_lag2,Lag,0.1203,2
+Random Forest,RDR_lag1,Lag,0.1165,3
+Random Forest,SRI_lag1,Lag,0.1061,4
+Random Forest,RS_lag1,Lag,0.0897,5
+Random Forest,RDR_lag3,Lag,0.0781,6
+Random Forest,risk_today,Today risk flag,0.0559,7
+Random Forest,RS_lag2,Lag,0.0539,8
+Random Forest,SRI_lag3,Lag,0.0524,9
+Random Forest,SRI_roll7,Rolling mean,0.0401,10
+Random Forest,RS_roll7,Rolling mean,0.026,11
+Random Forest,RS_lag3,Lag,0.0223,12
+Random Forest,SRI_roll14,Rolling mean,0.0189,13
+Random Forest,SRI_lag7,Lag,0.0138,14
+Random Forest,Gren_lag1,Lag,0.0126,15
+Random Forest,day_of_year,Calendar,0.0122,16
+Random Forest,RS_lag7,Lag,0.0119,17
+Random Forest,Gren_lag7,Lag,0.0119,18
+Random Forest,RDR_lag7,Lag,0.0113,19
+Random Forest,Gren_lag2,Lag,0.0095,20
+Random Forest,month,Calendar,0.0061,21
+Random Forest,month_cos,Calendar,0.003,22
+Random Forest,season,Calendar,0.0025,23
+Random Forest,month_sin,Calendar,0.0022,24
+XGBoost,RDR_lag2,Lag,0.3342,1
+XGBoost,RDR_lag1,Lag,0.2854,2
+XGBoost,risk_today,Today risk flag,0.0803,3
+XGBoost,RS_lag1,Lag,0.0759,4
+XGBoost,SRI_lag2,Lag,0.0236,5
+XGBoost,SRI_roll14,Rolling mean,0.0215,6
+XGBoost,SRI_lag1,Lag,0.0206,7
+XGBoost,season,Calendar,0.0199,8
+XGBoost,RS_lag2,Lag,0.0184,9
+XGBoost,day_of_year,Calendar,0.0141,10
+XGBoost,Gren_lag7,Lag,0.013,11
+XGBoost,SRI_roll7,Rolling mean,0.0123,12
+XGBoost,SRI_lag7,Lag,0.0111,13
+XGBoost,RS_lag7,Lag,0.0084,14
+XGBoost,Gren_lag1,Lag,0.0084,15
+XGBoost,RDR_lag7,Lag,0.0081,16
+XGBoost,SRI_lag3,Lag,0.0074,17
+XGBoost,RDR_lag3,Lag,0.0063,18
+XGBoost,month_sin,Calendar,0.0061,19
+XGBoost,month_cos,Calendar,0.0059,20
+XGBoost,RS_roll7,Rolling mean,0.0057,21
+XGBoost,Gren_lag2,Lag,0.0051,22
+XGBoost,RS_lag3,Lag,0.0051,23
+XGBoost,month,Calendar,0.0034,24

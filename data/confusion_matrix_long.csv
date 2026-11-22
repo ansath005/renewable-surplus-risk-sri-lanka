@@ -1,0 +1,21 @@
+model,model_order,actual,predicted,cell,count
+Logistic Regression,4,Risk,Risk,TP,27
+Logistic Regression,4,Normal,Risk,FP,30
+Logistic Regression,4,Risk,Normal,FN,3
+Logistic Regression,4,Normal,Normal,TN,368
+Persistence,1,Risk,Risk,TP,21
+Persistence,1,Normal,Risk,FP,9
+Persistence,1,Risk,Normal,FN,9
+Persistence,1,Normal,Normal,TN,389
+Random Forest,3,Risk,Risk,TP,11
+Random Forest,3,Normal,Risk,FP,7
+Random Forest,3,Risk,Normal,FN,19
+Random Forest,3,Normal,Normal,TN,391
+SARIMA,2,Risk,Risk,TP,9
+SARIMA,2,Normal,Risk,FP,8
+SARIMA,2,Risk,Normal,FN,21
+SARIMA,2,Normal,Normal,TN,390
+XGBoost,5,Risk,Risk,TP,20
+XGBoost,5,Normal,Risk,FP,14
+XGBoost,5,Risk,Normal,FN,10
+XGBoost,5,Normal,Normal,TN,384

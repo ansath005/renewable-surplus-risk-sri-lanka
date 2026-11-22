@@ -1,0 +1,10 @@
+metric,value
+SRI 90th percentile,1.3737
+RS 90th percentile,0.7349
+RDR 90th percentile,0.849
+Load factor (LF),0.7
+Total days,1439
+Risk days (SRI),144
+Risk day %,10.01
+Study start,2022-08-01
+Study end,2026-07-09
