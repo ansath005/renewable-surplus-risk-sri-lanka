@@ -3,7 +3,7 @@
 **Final-year research project** · BSc in Financial Mathematics and Industrial Statistics
 Department of Mathematics, Faculty of Science, University of Ruhuna, Sri Lanka
 
-**Author:** Munsif · **Supervisor:** Thilan A. W. L. P.
+**Author:** M.I Ansath Ahamed· **Supervisor:** Thilan A. W. L. P.
 
 Daily surplus-risk analysis of Sri Lanka's electricity generation (Ceylon Electricity Board data, 1 Aug 2022 – 9 Jul 2026): a Surplus-Risk Index (SRI), a Power BI dashboard, and leakage-free next-day prediction models.
 
@@ -225,4 +225,4 @@ renewable-surplus-risk-sri-lanka/
 
 ## 11. Contact
 
-Ansath Ahamed – [LinkedIn](https://www.linkedin.com/in/ansath-ahamed-227775279) · [Email](mailto:ansath005@gmail.com)
+M.I Ansath Ahamed – [LinkedIn](https://www.linkedin.com/in/ansath-ahamed-227775279) · [Email](mailto:ansath005@gmail.com)
